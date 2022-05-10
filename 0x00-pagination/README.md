@@ -1,4 +1,4 @@
-# 0x04. Pagination
+# 0x00. Pagination
 
 ## Resources:books:
 Read or watch:
